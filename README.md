@@ -1,3 +1,7 @@
+## Instagram clone for Reels feature
+
+working demo URL: https://ig-reels-32e22.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
